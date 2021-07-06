@@ -1,1 +1,1 @@
-# Quiz_Android_Java
+# Androidos Beer Quiz applikáció Java nyelven megírva. 
